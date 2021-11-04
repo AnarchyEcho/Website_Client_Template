@@ -11,4 +11,4 @@ yarn start
 ```
 All in a CLI (cmd, powershell, bash, etc.)  
   
-And you're now ready to start!
+And you're now ready to go!
