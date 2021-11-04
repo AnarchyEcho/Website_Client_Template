@@ -12,3 +12,5 @@ yarn start
 All in a CLI (cmd, powershell, bash, etc.)  
   
 And you're now ready to go!
+  
+### To access dev tools in the client press Alt
