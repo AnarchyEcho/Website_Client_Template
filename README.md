@@ -13,4 +13,4 @@ All in a CLI (cmd, powershell, bash, etc.)
   
 And you're now ready to go!
   
-### To access dev tools in the client press Alt
+### To access dev tools in the client press Alt and click the View tab, or do Ctrl + Shift + i
