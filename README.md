@@ -1,11 +1,11 @@
 # Website Client Template
 This repository is a template for any websites you may wish to create an app/client for via electronjs.
 ## How to get it running
-To begin with do
+To begin with open a console/CLI and do
 ```
 yarn
 ```
-And then to start the script do
+And then to start the script use
 ```
 yarn start
 ```
