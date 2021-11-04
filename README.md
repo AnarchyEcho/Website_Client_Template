@@ -5,7 +5,7 @@ To begin with open a console/CLI and do
 ```
 yarn
 ```
-And then to start the script use
+And then to start the client use
 ```
 yarn start
 ```
